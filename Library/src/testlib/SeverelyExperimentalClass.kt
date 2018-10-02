@@ -1,0 +1,4 @@
+package testlib
+
+@ExperimentalWithError
+class SeverelyExperimentalClass
